@@ -1,0 +1,2 @@
+origin	git@github.com:JustynaWid/Strona-www.git (fetch)
+origin	git@github.com:JustynaWid/Strona-www.git (push)
